@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /var/log/messages > /dev/null
+cat /dev/null > /var/log/messages
