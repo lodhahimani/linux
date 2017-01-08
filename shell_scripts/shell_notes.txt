@@ -22,4 +22,15 @@ Ans by putting curly brackets with $ like ${10}.
 Important commands
 
 * cat > newfilename
-Now copy the contents of notepad or from anywhere and then press ^C to save it 
+Now copy the contents of notepad or from anywhere and then press ^C to save it
+#####################################################
+* File Permission Operations
+1. -r is to check file has read permission or not.  
+2. -w is to check file has write permission or not.  
+3. -x is to check file has execute permission or not.  
+4. -f is to check file is a regular file or not.  
+5. -d is to check file is a directory or not.  
+6. -e is to check file exists or not.  
+7. -s is to check file size is not zero or zero.  
+8. -z is to check variable or argument string is empty or not empty.  
+9.
