@@ -1,0 +1,25 @@
+Important Notes on Shell Script :-
+
+Q1 How to call another shell-script(subshell) in a shell-script? 
+Ans By putting the name of the script in Open Brackets ()
+
+Q2 What is $# used for in the script?
+Ans It means the number of arguments
+
+Q3 What is $0 used for in the script?
+Ans It gives the name of the script
+
+Q4 What is $@ used for in the script
+Ans It gives all the arguments that are passed in the script.
+
+Q5 how to pass 10th argument in the script and more than that ?
+Ans by putting curly brackets with $ like ${10}.
+
+* Always use absolute path inside the shell script when calling another shell script
+* When echo use $ with the name of the variable to access the argument like $name of variable
+* never use space in the declaration of variable 
+#################################################
+Important commands
+
+* cat > newfilename
+Now copy the contents of notepad or from anywhere and then press ^C to save it 
